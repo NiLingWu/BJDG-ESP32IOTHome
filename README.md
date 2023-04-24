@@ -6,23 +6,15 @@
 
 ## Table of Contents
 
-* [URL](#url)
 * [Summary](#summary)
 * [Blocks](#blocks)
 * [License](#license)
 * [Supported targets](#Supportedtargets)
 
-## URL
-* Project URL : ```https://github.com/DFRobot/ext-oled12864```
-
-* Tutorial URL : ```https://mindplus.dfrobot.com.cn/extensions-user```
-
-* Get a purchase connection: [store](https://www.dfrobot.com/).
 
 ## Summary
-Support different drawings in the screen, including point, line, circle, rectangle, triangle,rounded rectangle and some commands.
-Support English characters and character library chips of DFRobot modules.
-IIC: the redraw rate is more than 30 frames per second when redrawed by ESP series controllers
+
+Support for the esp32-e motherboard's IIC communication LCD1602 screen, 6812RGBW lamp beads, rfid-rc522 RF module and classic Bluetooth communication.
 
 ## Blocks
 
