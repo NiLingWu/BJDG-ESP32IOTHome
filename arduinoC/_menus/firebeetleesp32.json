@@ -1,0 +1,59 @@
+{
+	"PIN_AnalogWrite": {
+		"menu": [
+			["A0", "IO36"],
+			["A3", "IO39"],
+			["A4", "IO32"],
+			["A5", "IO33"],
+			["A6", "IO34"]
+		]
+	},
+	"PIN_AnalogRead": {
+		"menu": [
+			["A0", "IO36"],
+			["A3", "IO39"],
+			["A4", "IO32"],
+			["A5", "IO33"],
+			["A6", "IO34"]
+		]
+	},
+	"PIN_DigitalWrite": {
+		"menu": [
+			["D2", "IO26"],
+			["D3", "IO25"],
+			["D6", "IO14"],
+			["D7", "IO13"],
+			["D8", "IO5"],
+			["D9", "IO2"],
+			["D10", "IO17"],
+			["D11", "IO16"],
+			["D12", "IO4"]
+		]
+	},
+	"PIN_DigitalRead": {
+		"menu": [
+			["D2", "IO26"],
+			["D3", "IO25"],
+			["D6", "IO14"],
+			["D7", "IO13"],
+			["D8", "IO5"],
+			["D9", "IO2"],
+			["D10", "IO17"],
+			["D11", "IO16"],
+			["D12", "IO4"]
+		]
+	},
+	"PINMODE":{
+		"menu": [
+			["INPUT", "INPUT"],
+			["OUTPUT", "OUTPUT"],
+			["PULLUP", "PULLUP"],
+			["INPUT_PULLUP", "INPUT_PULLUP"],
+			["PULLDOWN", "PULLDOWN"],
+			["INPUT_PULLDOWN", "INPUT_PULLDOWN"],
+			["OPEN_DRAIN", "OPEN_DRAIN"],
+			["OUTPUT_OPEN_DRAIN", "OUTPUT_OPEN_DRAIN"],
+			["SPECIAL", "SPECIAL"]
+		]
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "bjdg.initRGBW|block": "RGBW lights initialization, pin [PIN] total number of lamps [NUM]",
+    "bjdg.setlight|block": "RGBW lights setting brightness [LIGHT]",
+    "bjdg.clearcolor|block": "All RGBW lights are off ",
+    "bjdg.shownum1tonum2color|block": "RGBW lights display color [COLOR] from [NUM1] lights to [NUM2] lights",
+    "bjdg.setcolor|block": "RGBW light color values [red], [green], [blue], [white] ",
+    "bjdg.showcolor|block": "RGBW light [NUM] light display color [COLOR] ",
+
+    "bjdg.MFRC522Init|block": "RFID-RC522 module initialization, SDA pin [SS] RST pin [RST]",
+    "bjdg.MFRC522get|block": "RFID-RC522 module detects new card numbers ",
+    "bjdg.MFRC522check|block": " RFID RC522 module card number password matching array [num1], [num2], [num3], [num4], result output ",
+	"bjdg.MFRC522result|block": "RFID RC522 module pairing result ",
+    "bjdg.MFRC522resultback|block": " RFID RC522 module pairing result assigned as [back]",
+    
+    "bjdg.LCDInit|block": " LCD module initialization, I2C address [adr] module column count [lie] module row count [hang]",
+	"bjdg.showstr|block": "LCD module displays characters [str] in X: [num1] Y: [num2]",
+    "bjdg.clearlcd|block": "LCD module display clear screen ",
+
+    "bjdg.BlueToothInit|block": "Bluetooth initialization, Bluetooth name [name]",
+	"bjdg.BlueToothgetmsg1|block": "Bluetooth data acquisition method ",
+    "bjdg.BlueToothgetmsg|block": "Bluetooth data",
+    "bjdg.clearmsg|block": "Clear Bluetooth data ",
+	"bjdg.sendmsg|block": "Sending Bluetooth data [msg] "
+
+}
+

@@ -1,0 +1,24 @@
+{
+    "bjdg.initRGBW|block": "RGBW灯初始化，引脚 [PIN] 灯总数 [NUM]",
+    "bjdg.setlight|block": "RGBW灯设置亮度 [LIGHT]",
+    "bjdg.clearcolor|block": "RGBW灯全部熄灭",
+    "bjdg.shownum1tonum2color|block": "RGBW灯从[NUM1]号灯到 [NUM2]号灯显示颜色 [COLOR]",
+    "bjdg.setcolor|block": "RGBW灯颜色值[red],[green],[blue],[white] ",
+    "bjdg.showcolor|block": "RGBW灯[NUM]号灯显示颜色 [COLOR]",
+
+    "bjdg.MFRC522Init|block": "RFID-RC522模块初始化，SDA引脚[SS] RST引脚[RST]",
+    "bjdg.MFRC522get|block": "RFID-RC522模块检测新卡号",
+    "bjdg.MFRC522check|block": "RFID-RC522模块卡号密码匹对数组[num1],[num2],[num3],[num4],结果输出",
+	"bjdg.MFRC522result|block": "RFID-RC522模块配对结果",
+    "bjdg.MFRC522resultback|block": "RFID-RC522模块配对结果赋值为[back]",
+
+    "bjdg.LCDInit|block": "LCD模块初始化，I2C地址[adr] 模块列数[lie] 模块行数[hang]",
+	"bjdg.showstr|block": "LCD模块 在X:[num1] Y:[num2]显示字符[str]",
+    "bjdg.clearlcd|block": "LCD模块显示清屏",
+
+    "bjdg.BlueToothInit|block": "蓝牙初始化，蓝牙名称[name]",
+	"bjdg.BlueToothgetmsg1|block": "蓝牙获取数据方法",
+    "bjdg.BlueToothgetmsg|block": "蓝牙数据",
+    "bjdg.clearmsg|block": "清除蓝牙数据",
+	"bjdg.sendmsg|block": "发送蓝牙数据[msg]"
+}

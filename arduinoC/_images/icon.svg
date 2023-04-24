@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.064mm" height="4.064mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 406 406"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:10}
+    .str2 {stroke:#332C2B;stroke-width:20}
+    .str1 {stroke:#332C2B;stroke-width:20;stroke-linejoin:round}
+    .fil5 {fill:#332C2B}
+    .fil0 {fill:#9E4B0C}
+    .fil1 {fill:#E06E16}
+    .fil2 {fill:white}
+    .fil3 {fill:#3FA0D9}
+    .fil6 {fill:#4A2825}
+    .fil4 {fill:#8A4532}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="296,82 337,82 349,197 288,197 "/>
+  <polygon class="fil1 str1" points="64,14 226,14 287,176 14,176 "/>
+  <rect class="fil2 str2" x="47" y="197" width="342" height="191"/>
+  <rect class="fil3" x="253" y="247" width="34.0401" height="41.3928"/>
+  <rect class="fil3" x="299" y="247" width="34.0401" height="41.3928"/>
+  <rect class="fil3" x="253" y="300" width="34.0401" height="41.3928"/>
+  <rect class="fil3" x="299" y="300" width="34.0401" height="41.3928"/>
+  <rect class="fil4 str0" x="107" y="289" width="68.5553" height="98.3374"/>
+  <circle class="fil5" cx="128" cy="337" r="5"/>
+  <rect class="fil6 str0" x="296" y="64" width="40.3434" height="17.72"/>
+  <rect class="fil0 str1" x="14" y="176" width="375.18" height="34.19"/>
+ </g>
+</svg>

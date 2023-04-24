@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "BJDG-物联网小屋",
+		"en": "BJDG-IOT House"
+	},
+	"description": {
+		"zh-cn": "esp32物联网小屋模块使用",
+		"en": "esp32 Use of IoT Cabin Module"
+	},
+	"author": "BJDGRobot",
+	"email": "w0517520@163.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "BJDG_IOT",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["firebeetleesp32e"],
+			"main": "main.ts"
+		}
+	}
+}
