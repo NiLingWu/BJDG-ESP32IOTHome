@@ -1,7 +1,6 @@
 # I2C OLED-2864 screen
 
-
-![](./arduinoC/_images/featured.png)
+![图片名称](https://github.com/NiLingWu/bjdg-ESPIOTHome/arduinoC/_images/featured.png)
 
 ---------------------------------------------------------
 
