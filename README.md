@@ -1,6 +1,7 @@
 # I2C OLED-2864 screen
 
-![图片名称](https://github.com/NiLingWu/bjdg-ESPIOTHome/arduinoC/_images/featured.png)
+
+![](./arduinoC/_images/featured.png)
 
 ---------------------------------------------------------
 
@@ -14,6 +15,7 @@
 
 ## Summary
 
+This database is a supplementary function to the graphical programming of the Internet of Things hut for Baijia Dagu Maker products.
 Support for the esp32-e motherboard's IIC communication LCD1602 screen, 6812RGBW lamp beads, rfid-rc522 RF module and classic Bluetooth communication.
 
 ## Blocks
